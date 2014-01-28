@@ -1,4 +1,14 @@
-https://www.youtube.com/user/creeveshft/videos
+Python Web Scraping Tutorials
+=============================
+
+By Chris Reeves
+---------------
+
+This is a list of videos found on [Chris Reeve's Youtube Channel](https://www.youtube.com/user/creeveshft/videos).
+
+
+Miscellaneous Python
+-----------------------
 
 Downloading Google Images with Python Tutorial
 
@@ -18,14 +28,17 @@ Multithreaded C++ tutorial Stock Trading
 
 Twitter Sentiment Analysis
 
----
+
+Python Signature Series
+-----------------------
 
 2 - Post Request With Python Signature Series Tutorial Part 2
 
 1 - Python Web Scraping Signature Series Tutorial 1 : Get Request with Python, Google Translate Part 1
 
----
 
+Python Web Scraping Tutorial
+---------------------------
 
 24 - Python Web Scraping Tutorial 24: autoblog tutorial ADB News Automated Website
 
